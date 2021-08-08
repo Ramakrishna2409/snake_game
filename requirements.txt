@@ -1,7 +1,4 @@
-- @ file:///C:/ci/scipy_1592916963468/work
--cikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
--cipy @ file:///C:/ci/scipy_1592916963468/work
--ipy @ file:///C:/ci/scipy_1592916963468/work
+
 absl-py==0.10.0
 alabaster==0.7.12
 anaconda-client==1.7.2
